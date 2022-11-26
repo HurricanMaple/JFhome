@@ -1,4 +1,7 @@
 # https://seir.in
+
+[![Join the chat at https://gitter.im/setsave/community](https://badges.gitter.im/setsave/community.svg)](https://gitter.im/setsave/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 我的个人主页作品
 
 如果你喜欢，可以fork到你的仓库里改改自己用~
